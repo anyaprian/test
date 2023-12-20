@@ -34,4 +34,4 @@
 
 Сваггер сервиса доступен по ссылке: https://collect-city-info.k8s.faqtrip.com/docs
 
-Чтобы протестировать ручки, нужно авторизоваться (кнопка Authorize справа сверху) по [ключу](https://vault.k8s.faqtrip.com/ui/vault/secrets/collect-city-info/show/deploy/dev/common)
+Чтобы протестировать ручку, нужно авторизоваться (кнопка Authorize справа сверху) по [ключу](https://vault.k8s.faqtrip.com/ui/vault/secrets/collect-city-info/show/deploy/dev/common)
